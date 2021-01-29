@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Ridho Hafidz, i really like Linux System administration and right now i am excited to learn programming and DevOps.
+- 🌱 I’m currently learning DevOps and Programming
+- 👯 I’m looking to collaborate on Writing about Web Development
+- 💬 Ask me about Linux, Technology, Cloud Computing
+- 📫 How to reach me: [Here!](mailto:mridhohafidz12@gmail.com)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ridhohafidz&theme=highcontrast&show_icons=true&count_private=true)
 <!--
 **ridhohafidz/ridhohafidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
