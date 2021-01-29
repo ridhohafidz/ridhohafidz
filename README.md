@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ridho Hafidz, i really like Linux System administration and right now i am excited to learn programming and DevOps.
+I am Ridho Hafidz, i really like Linux System administration and right now i am excited to learn Programming and DevOps.
 - 🌱 I’m currently learning DevOps and Programming
 - 👯 I’m looking to collaborate on Writing about Web Development
 - 💬 Ask me about Linux, Technology, Cloud Computing
