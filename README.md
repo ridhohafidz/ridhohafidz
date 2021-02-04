@@ -5,7 +5,7 @@ I am Ridho Hafidz, i really like Linux System administration and right now i am 
 - 👯 I’m looking to collaborate on Writing about Web Development
 - 💬 Ask me about Linux, Technology, Cloud Computing
 - 📫 How to reach me: [Here!](mailto:mridhohafidz12@gmail.com)
-- 😄 Linkedin : [Here!](https://www.linkedin.com/in/ridhohafidz/)
+- 😄 Linkedin : linkedin.com/in/ridhohafidz
 
 
 <!--
