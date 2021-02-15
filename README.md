@@ -7,6 +7,8 @@ I am Ridho Hafidz, i really like Linux System administration and right now i am 
 - 📫 How to reach me: [Here!](mailto:mridhohafidz12@gmail.com)
 - 😄 Linkedin : linkedin.com/in/ridhohafidz
 
+![gif_anime](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---desk-anim---dark-blue---v0.1.gif)
+
 
 <!--
 **ridhohafidz/ridhohafidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
