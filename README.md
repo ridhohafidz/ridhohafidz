@@ -6,7 +6,7 @@ I am Ridho Hafidz, i really like Linux System administration and right now i am 
 - 💬 Ask me about Linux, Technology, Cloud Computing
 - 📫 How to reach me: [Here!](mailto:mridhohafidz12@gmail.com)
 - 😄 Linkedin : linkedin.com/in/ridhohafidz
-- - ⚡ Fun fact: Linux Geekers
+- ⚡ Fun fact: Linux Geekers
 
 
 
